@@ -78,7 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johan Bjorck \n PhD student \n Cornell University"
+  name             : "Johan Bjorck 
+PhD student
+ Cornell University"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ithaca, New York"
