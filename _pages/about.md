@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Cornell University since the fall of 2015. My advisors are prof. Carla Gomes and prof. Bart Selman, with whom I study AI and its use in sustainability applications. My background is in physics and I've been working chiefly on AI-techniques for materials science, where physical laws are ubiquitous. Additionally, I've been working on algorithm design for submodular optimization, with applications to invasive species management. 
+I'm a PhD student at Cornell University since the fall of 2015. My advisors are prof. [Carla Gomes](https://www.cs.cornell.edu/gomes) and prof. [Bart Selman](http://www.cs.cornell.edu/selman/), with whom I study AI and its use in sustainability applications. My background is in physics and I've been working chiefly on AI-techniques for materials science, where physical laws are ubiquitous. Additionally, I've been working on algorithm design for submodular optimization, with applications to invasive species management. 
+
 
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
