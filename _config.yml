@@ -78,11 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johan Bjorck 
-PhD student
- Cornell University"
+  name             : "Johan Bjorck"
   avatar           : "profile.png"
-  bio              : "PhD student working on AI and its applications to sustainability."
+  bio              : "PhD student at Cornell, working on AI and its applications to sustainability."
   location         : "Ithaca, New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Q_YY6OMAAAAJ"
