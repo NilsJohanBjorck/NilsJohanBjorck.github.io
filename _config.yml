@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Johan Bjorck"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Johan Bjorck"
+description              : &description "PhD student in CS"
 url                      : https://nilsjohanbjorck.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nilsjohanbjorck.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Johan Bjorck"
   avatar           : "profile.png"
-  bio              : "PhD student at Cornell working on AI and its applications to sustainability."
+  bio              : "CS PhD student at Cornell working on AI and its applications to sustainability."
   location         : "Ithaca, New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Q_YY6OMAAAAJ"
@@ -255,16 +255,16 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
 
 
